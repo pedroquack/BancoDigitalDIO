@@ -1,0 +1,1 @@
+Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança) as quais possuem as funcionalidades de deposito saque e transferencia
